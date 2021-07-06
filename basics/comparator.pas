@@ -7,7 +7,7 @@ begin
   readln(a, b);
 
   if (a > b) then
-    Write(b)
+    writeln(b)
   else
-    Write(a);
+    writeln(a);
 end.
